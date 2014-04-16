@@ -1,3 +1,3 @@
 First stage:
 
-Add all members...
+Add all members.
